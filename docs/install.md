@@ -29,7 +29,8 @@ You should be able to extract the file you need from official firmware packages 
 Quick recap, at this point, you should have known and prepared:
 
 1. Whether your device has boot ramdisk
-2. A `boot.img`, `init_boot.img` or `recovery.img` based on (1)
+2. A `boot.img`, `init_boot.img` or
+3. `recovery.img` based on (1)
 
 Let's continue to [Patching Images](#patching-images).
 
